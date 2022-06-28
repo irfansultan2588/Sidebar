@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(134, 211, 185, 0.74);
+}
+.bodr1{
+    border-bottom: 1px solid rgb(17, 11, 11);
+}
+
+#left-boder{
+    border: 1px solid rgb(49, 49, 189);
+    border-radius: 28px;
+}
+
+#right-boder{
+    border: 1px solid rgb(168, 57, 179);
+    border-radius: 28px;
+}
